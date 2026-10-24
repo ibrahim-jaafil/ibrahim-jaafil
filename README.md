@@ -1,39 +1,39 @@
 # 👋 Hi, I'm Ibrahim Jaafil
 
-I'm a first-year Software Engineering student from Lebanon 🇱🇧, currently studying in Turkey 🇹🇷. I'm passionate about programming and constantly learning through hands-on projects.
-
----
+Software Engineering student at Bahçeşehir University in Istanbul 🇹🇷, originally from Lebanon 🇱🇧. I'm focused on **backend development and cybersecurity**, and I learn best by building things.
 
 ## 💻 Tech Stack
 
-**🌐 Frontend:** HTML, CSS, JavaScript  
-**☕ Backend & Languages:** Java, Node.js, Express.js  
-**🗄️ Databases:** Currently exploring database fundamentals and integration    
-**🚀 Next up:** databases such as PostgreSQL and MongoDB, and data structures and algorithms  
+- **Languages:** Java, JavaScript, Python
+- **Backend:** Node.js, Express.js
+- **Frontend:** HTML, CSS, JavaScript
+- **Mobile:** Android (Java)
+- **Databases:** SQL fundamentals, exploring PostgreSQL and MongoDB
+- **Security:** CTF competitions, offensive security tooling, Kali Linux
+- **Systems:** Linux, windows , VMs
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools
 
-- Visual Studio Code  
-- Eclipse  
-- Git & GitHub  
+VS Code · Eclipse · Android Studio · Git & GitHub · Linux · neovim · VirtualBox
 
 ---
 
-## 📌 My Projects
+## 📌 Projects
 
-I’ve been building and uploading projects here to learn by doing — from frontend layouts to full-stack applications with backend servers and databases. Each repository is a step forward in my journey to becoming a skilled developer.
+- **Campus Place Finder**: Android/Java app where students review and discover campus locations, built for my data structures course
+- **Full-stack practice projects**: Express backends with database integration
+- - **Security tooling & CTF work**
 
-📁 Check out my repos — feedback and suggestions are always welcome!
+Browse my repos for the rest. Feedback and suggestions are always welcome!
 
 ---
 
 ## 📚 Goals
 
-- Deepen backend development skills and database integration  
-- Learn advanced database concepts (queries, optimization, relationships)  
-- Study data structures and algorithms  
+- Deepen backend skills and database design
+- Grow in offensive security through CTFs
 - Build and deploy full-stack applications  
 - Learn and apply Git/GitHub best practices  
 - Contribute to open source in the near future  
@@ -42,5 +42,5 @@ I’ve been building and uploading projects here to learn by doing — from fron
 
 ## 📫 Contact
 
-- GitHub: [github.com/parzival-b](https://github.com/parzival-b)  
-- Email: ibrahimjaafil2006@gmail.com
+- GitHub: [github.com/ibrahim-jaafil](https://github.com/ibrahim-jaafil)  
+- Email: [ibrahimjaafil2006@gmail.com]
